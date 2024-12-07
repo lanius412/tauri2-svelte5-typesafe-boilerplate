@@ -1,7 +1,7 @@
 # Tauri 2 Svelte 5 Typesafe Boilerplate
 
 > [!NOTE]  
-> Some libraries are currently in alpha version.
+> Some libraries are currently in alpha, beta, and release candidate version.
 
 ## Setup
 ```bash
@@ -22,7 +22,7 @@ https://tauri.dev
 ### Svelte v5 (+kit)
 https://svelte.dev
 
-### TailwindCSS v4 alpha
+### TailwindCSS v4 beta
 https://tailwindcss.com
 
 ### DaisyUI v5 alpha
